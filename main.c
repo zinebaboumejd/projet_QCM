@@ -15,9 +15,10 @@ int main() {
 		
 		while(choix!=2){
 			note-=2;
+				printf("incorrect!!!!\n");  
 			printf("Entrez la bonne repponce\n");
 			scanf("%d",&choix);
-				printf("incorrect!!!!\n");
+			
 			
 		}
 		printf("bravoooo\n");	
@@ -35,9 +36,10 @@ int main() {
 			
 		while(choix!=1){
 			note-=2;
+			printf("incorrect!!!!\n");
 			printf("Entrez la bonne repponce\n");
 			scanf("%d",&choix);
-				printf("incorrect!!!!\n");
+				
 			
 		}
 		printf("bravoooo\n");	
@@ -53,10 +55,11 @@ int main() {
 	}else{
 			
 		while(choix!=1){
+			printf("incorrect!!!!\n");
 			note-=2;
 			printf("Entrez la bonne repponce\n");
 			scanf("%d",&choix);
-				printf("incorrect!!!!\n");
+				
 			
 		}
 		printf("bravoooo\n");	
