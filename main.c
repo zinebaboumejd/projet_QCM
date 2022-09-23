@@ -5,7 +5,7 @@
 
 int main() {
 	int note,choix,x,i=0;
-	printf("QA-Lequel des langages suivants est mieux adapté au programmation structuré?\n1-PASCAL\n2-PROLOG\n-3- PL/SQL\nEntrez votre choix: ");
+	printf("QA-Lequel des langages suivants est mieux adaptÃ© au programmation structurÃ©?\n1-PASCAL\n2-PROLOG\n-3- PL/SQL\nEntrez votre choix: ");
 	scanf("%d",&choix);
 
 	if(choix==2){
@@ -27,7 +27,7 @@ int main() {
 //	printf(" la valeur de note est %d\n",note);
 
 	
-    printf("Q2-Lequel des langages informatiques suivants est utilisé pour l’intelligence artificielle?\n\n1-C\n2-COBOL\nEntrez votre choix: ");
+    printf("Q2-Lequel des langages informatiques suivants est utilisÃ© pour lâ€™intelligence artificielle?\n\n1-C\n2-COBOL\nEntrez votre choix: ");
 	scanf("%d",&choix);
 	if(choix==1){
 		printf("bravo\n");
@@ -42,12 +42,12 @@ int main() {
 				
 			
 		}
-		printf("bravoooo\n");	
+		printf("bravooo\n");	
 		
 	}
 	printf(" la valeur de note est %d\n",note);
 		
-	printf("Q3-Le cerveau de tout système informatique est _________?\n1-CPu\n2-Mémoire\nEntrez votre choix: ");
+	printf("Q3-Le cerveau de tout systÃ¨me informatique est _________?\n1-CPu\n2-MÃ©moire\nEntrez votre choix: ");
 	scanf("%d",&choix);
 	if(choix==1){
 		printf("bravo\n");
